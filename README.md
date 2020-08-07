@@ -8,6 +8,8 @@
 
 ​	测试项目:[https://github.com/whoissunshijia/LuaHotReload](https://github.com/whoissunshijia/LuaHotReload)
 
+可以加群453886054交流
+
 ## 修改部分
 
 ​	关于一些使用约定可以查看[http://asqbtcupid.github.io/hotupdate-manul/](http://asqbtcupid.github.io/hotupdate-manul/),这里就不细说了.这里大概说一下修改的地方:
